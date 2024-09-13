@@ -26,10 +26,26 @@ The UI closely follows the dark theme of Spotify, with similar layout and design
 
 #### Installation ####
 
-##### 1.Clone the repository ######
-git clone https://github.com/Akki-soni/spotify.git
-##### 2.Navigate to the project directory #####
-cd spotify
-##### 3.Open the index.html file in your browser: #####
-open index.html
+1.  **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/Akki-soni/WANDERLUST-A-Traveller-s-Website.git
+    ```
+    
+2.  **Navigate to the project directory:**
+
+    ```bash
+    cd spotify
+    ```
+
+3.  **Open the index.html file in your browser:**
+
+    ```bash
+    open index.html
+    ```
+
+## Author ##
+
+Akash Chandra Verma \
+LinkedIn : https://www.linkedin.com/in/akashchandraverma/
 
