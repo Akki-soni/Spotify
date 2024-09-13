@@ -6,7 +6,6 @@
   </a>
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ### Spotify Clone ###
 
 #### Overview ####
@@ -25,10 +24,11 @@ The UI closely follows the dark theme of Spotify, with similar layout and design
 - CSS: For styling and creating a responsive layout.
 
 #### Installation ####
-##### Clone the repository ######
+
+##### 1.Clone the repository ######
 git clone https://github.com/Akki-soni/spotify.git
-##### Navigate to the project directory #####
+##### 2.Navigate to the project directory #####
 cd spotify
-##### Open the index.html file in your browser: #####
+##### 3.Open the index.html file in your browser: #####
 open index.html
 
