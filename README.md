@@ -7,45 +7,59 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Spotify Clone ##
+<h1 align="center">Spotify Clone</h1>
 
-#### Overview ####
-This project is a simple Spotify web player clone that mimics the functionality and user interface of the original Spotify application.The design and functionality are built using HTML, CSS with responsive design in mind to work across devices.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+</p>
 
-#### Featurse ####
-- Homepage: Displays recent playlists and trending songs.
-- Music Playback: Includes a working play/pause button, a progress bar, and volume control.
-- Responsive Design: Works on both desktop and mobile screens.
+<p align="center">
+  This project is a simple Spotify web player clone that mimics the functionality and user interface of the original Spotify application.The design and functionality are built using HTML, CSS with responsive 
+  design in mind to work across devices.
+                                        The UI closely follows the dark theme of Spotify, with similar layout and design. Features like "Recently Played", "Trending Now Near You", and "Top 50 Global" are showcased on the homepage. A sticky bottom player allows users to control their music from any page.
+</p>
 
-#### User Interface (UI) ####
-The UI closely follows the dark theme of Spotify, with similar layout and design. Features like "Recently Played", "Trending Now Near You", and "Top 50 Global" are showcased on the homepage. A sticky bottom player allows users to control their music from any page.
+## 🚀 Features
 
-#### Technologies Used ####
-- HTML: To structure the web pages.
-- CSS: For styling and creating a responsive layout.
+- **Homepage**: Displays recent playlists and trending songs.
+- **Music Playback**: Includes a working play/pause button, a progress bar, and volume control.
+- **Responsive Design**: Works on both desktop and mobile screens.
 
-#### Installation ####
+## 🛠️ Technologies Used
 
-1.  **Clone the Repository:**
+- **HTML**: To structure the web pages.
+- **CSS**: For styling and creating a responsive layout.
 
-    ```bash
-    git clone https://github.com/Akki-soni/WANDERLUST-A-Traveller-s-Website.git
-    ```
-    
-2.  **Navigate to the project directory:**
+## 🌟 Screenshots
 
-    ```bash
-    cd spotify
-    ```
+![Spotify Clone Screenshot](/Images/Screenshot.png)
 
-3.  **Open the index.html file in your browser:**
+## 🔗 Live Demo
 
-    ```bash
-    open index.html
-    ```
+[View Live Demo]()
 
-## Author ##
+## 🤝 Contributing
 
-Akash Chandra Verma \
-LinkedIn : https://www.linkedin.com/in/akashchandraverma/
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+## 🙏 Acknowledgments
+
+- [Google Fonts](https://fonts.google.com/) for the font families used in the design.
+- [Font Awesome](https://fontawesome.com/) for the icons used in the application.
+
+## 🌐 Socials
+
+<div align="center">
+
+[![Visit My Profile](https://img.shields.io/badge/Visit%20My%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+
+<a href="">
+  <img src="Images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+</div>
