@@ -16,8 +16,7 @@
 
 <p align="center">
   This project is a simple Spotify web player clone that mimics the functionality and user interface of the original Spotify application.The design and functionality are built using HTML, CSS with responsive 
-  design in mind to work across devices.
-                                        The UI closely follows the dark theme of Spotify, with similar layout and design. Features like "Recently Played", "Trending Now Near You", and "Top 50 Global" are showcased on the homepage. A sticky bottom player allows users to control their music from any page.
+  design in mind to work across devices. The UI closely follows the dark theme of Spotify, with similar layout and design. Features like "Recently Played", "Trending Now Near You", and "Top 50 Global" are showcased on the homepage. A sticky bottom player allows users to control their music from any page.
 </p>
 
 ## 🚀 Features
@@ -37,7 +36,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://spotify-tan-iota.vercel.app/)
 
 ## 🤝 Contributing
 
